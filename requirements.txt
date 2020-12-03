@@ -1,0 +1,17 @@
+certifi==2020.11.8
+chardet==3.0.4
+hrpc==1.0.8
+idna==2.10
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+mss==4.0.3
+numpy==1.16.6
+opencv-contrib-python==3.4.2.17
+Pillow==6.2.2
+pocoui==1.0.80
+python-xlib==0.29
+pywinauto==0.6.3
+requests==2.25.0
+six==1.15.0
+urllib3==1.26.2
+websocket-client==0.48.0
